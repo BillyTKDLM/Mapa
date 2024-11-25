@@ -1,4 +1,4 @@
-# **Projeto de Localização e Marcadores**
+# **Localização e Marcadores**
 
 Este é um aplicativo mobile desenvolvido com React Native, projetado para permitir que os usuários interajam com um mapa, adicionem marcadores personalizados, editem e removam esses marcadores. O projeto inclui gerenciamento de estado e armazenamento persistente dos dados localmente no dispositivo usando AsyncStorage.
 
